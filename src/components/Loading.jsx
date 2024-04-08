@@ -1,0 +1,3 @@
+export default function Loading({text='Loading...'}) {
+    return <div style={{width: '100%', height: '100vh', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}><img src="../../img/loading.gif" alt="Marker" style={{ width: 100, height: 100 }} /><h4 style={{marginTop: '-1rem', marginBottom: '10rem'}}>{text}</h4></div>; // You can customize this with a spinner or animation
+};

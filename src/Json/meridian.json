@@ -1,0 +1,62 @@
+[
+    {
+        "index": 0,
+        "name":"Yin of Lungs",
+        "img": "yin-of-lungs.png"
+    },
+    {
+        "index": 1,
+        "name":"Yang of Large intestine",
+        "img": "yang-of-large-intestine.png"
+    },
+    {
+        "index": 2,
+        "name":"Yang of Stomach",
+        "img": "yang-of-stomach.png"
+    },
+    {
+        "index": 3,
+        "name":"Yin of Spleen",
+        "img": "yin-of-spleen.png"
+    },
+    {
+        "index": 4,
+        "name":"Yin of Heart",
+        "img": "yin-of-heart.png"
+    },
+    {
+        "index": 5,
+        "name":"Yang of Small intestine",
+        "img": "yang-of-small-intestine.png"
+    },
+    {
+        "index": 6,
+        "name":"Yang of Bladder",
+        "img": "yang-of-bladder.png"
+    },
+    {
+        "index": 7,
+        "name":"Yin of Kidneys",
+        "img": "yin-of-kidneys.png"
+    },
+    {
+        "index": 8,
+        "name":"Yin of Pericardium",
+        "img": "yin-of-pericardium.png"
+    },
+    {
+        "index": 9,
+        "name":"Yang of Triple warmer",
+        "img": "yang-of-triple-warmer.png"
+    },
+    {
+        "index": 10,
+        "name":"Yang of Gallbladder",
+        "img": "yang-of-gallbladder.png"
+    },
+    {
+        "index": 11,
+        "name":"Yin of Liver",
+        "img": "yin-of-liver.png"
+    }
+]

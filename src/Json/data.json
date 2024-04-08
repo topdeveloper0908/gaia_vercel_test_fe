@@ -1,0 +1,1242 @@
+[
+    {
+        "index": 4,
+        "key":"Stress",
+        "products":[
+            {
+                "id":2,
+                "condition": "over",
+                "value": 3,
+                "description": "Lifewave X39: X39 is known for its stem cell activation benefits, but it can also contribute to overall stress reduction. By supporting the body's natural healing and regenerative processes, it may help improve the body's ability to cope with stress."
+            },
+            {
+                "id":4,
+                "condition": "over",
+                "value": 3,
+                "description": "Aeon is designed to reduce inflammation and stress. It may help calm the nervous system and promote a sense of relaxation. Aeon patches can be placed on specific acupuncture points to aid in stress reduction."
+            },
+            {
+                "id": 3,
+                "condition": "over",
+                "value": 3,
+                "description": "High-stress levels can often disrupt sleep patterns. Silent Nights patches are designed to improve the quality of sleep by addressing imbalances in the body's energy system. Better sleep can contribute to stress reduction."
+            }
+        ]
+    },
+    {
+        "index": 5,
+        "key":"Energy",
+        "products":[
+            {
+                "id":5,
+                "condition": "under or over",
+                "value": [40,60],
+                "description": "The LifeWave Energy Enhancer patches are specifically designed to increase energy, stamina, and endurance. These patches utilize a combination of amino acids, herbal extracts, and nutrients to support the body's energy production processes."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [40,60],
+                "description": "Although primarily recognized for its detoxification benefits, glutathione can also support cellular function and energy production. By promoting a healthy cellular environment, glutathione patches may help increase energy levels."
+            },
+            {
+                "id": 3,
+                "condition": "under or over",
+                "value": [40,60],
+                "description": "If poor sleep quality or lack of restful sleep is a contributing factor to low energy, Silent Nights patches may be beneficial. These patches use non-transdermal technology to support natural sleep patterns, promoting deep and restorative sleep."
+            },
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [40,60],
+                "description": "While Aeon is known for its anti-inflammatory properties, it can also have an indirect impact on energy levels. By reducing inflammation and stress in the body, Aeon patches can help optimize overall health and well-being, which can translate to improved energy levels."
+            },
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [40,60],
+                "description": "IceWave patches can be used to address pain and discomfort, which may be contributing to low energy levels. By reducing pain and promoting overall wellness, these patches can help improve energy and vitality."
+            }
+        ]
+    },
+    {
+        "index": 31,
+        "key":"Muladhara",
+        "products":[
+            {
+                "id":4,
+                "condition": "over",
+                "value": 6,
+                "description": "",
+                "category":"forhead"
+            },
+            {
+                "id":5,
+                "condition": "under",
+                "value": 4,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "index": 32,
+        "key":"Svadhisthana",
+        "products":[
+            {
+                "id":4,
+                "condition": "over",
+                "value": 6,
+                "category":"eyebrows",
+                "description": ""
+            },
+            {
+                "id":5,
+                "condition": "under",
+                "value": 4,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "index": 33,
+        "key":"Manipura",
+        "products":[
+            {
+                "id":4,
+                "condition": "over",
+                "value": 6,
+                "category":"Throat",
+                "description": ""
+            },
+            {
+                "id":5,
+                "condition": "under",
+                "value": 4,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "index": 34,
+        "key":"Anahata",
+        "products":[
+            {
+                "id":4,
+                "condition": "over",
+                "value": 6,
+                "category":"Chest",
+                "description": ""
+            },
+            {
+                "id":5,
+                "condition": "under",
+                "value": 4,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "index": 35,
+        "key":"Vishuddha",
+        "products":[
+            {
+                "id":4,
+                "condition": "over",
+                "value": 6,
+                "category":"two fingers above",
+                "description": ""
+            },
+            {
+                "id":5,
+                "condition": "under",
+                "value": 4,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "index": 36,
+        "key":"Ajna",
+        "products":[
+            {
+                "id":4,
+                "condition": "over",
+                "value": 6,
+                "category":"two fingers below",
+                "description": ""
+            },
+            {
+                "id":5,
+                "condition": "under",
+                "value": 4,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "index": 37,
+        "key":"Sahasrara",
+        "products":[
+            {
+                "id":4,
+                "condition": "over",
+                "value": 6,
+                "category":"lower back",
+                "description": ""
+            },
+            {
+                "id":5,
+                "condition": "under",
+                "value": 4,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "index": 57,
+        "key":"Alignment",
+        "products":[
+            {
+                "id":2,
+                "name":"Chakra Balancing Crystals",
+                "condition": "under",
+                "value": 90,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "index": 63,
+        "key":"Yin of Lungs",
+        "img":"yin-of-lungs.png",
+        "products":[
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The X39 patch can be beneficial for stem cell activation, which supports overall health and vitality. While it may not directly target the Yin of Lungs specifically, overall health improvements can have a positive impact on respiratory function. It is typically placed on the upper body, preferably over the upper back area near the shoulder blades."
+            },
+            {
+                "id": 0,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Carnosine patch is known for its potential benefits for heart tissues and respiratory problems. Placing the Carnosine patch on the upper chest area, over the heart and lungs, may be helpful for individuals with low Yin of Lungs energy."
+            },
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Aeon patch is known for its anti-inflammatory properties and stress reduction benefits. While it may not directly target the Yin of Lungs, it can help with reducing inflammation in the respiratory system. Placing the Aeon patch on the upper chest or near the lungs can be beneficial."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Glutathione patch is primarily associated with detoxification, liver health, and gallbladder health. While it may not specifically address the Yin of Lungs, supporting liver function can indirectly benefit respiratory health. Placing the Glutathione patch on the right side of the body, over the liver area, is recommended."
+            }
+        ]
+    },
+    {
+        "index": 64,
+        "key":"Yang of Large intestine",
+        "img":"yang-of-large-intestine.png",
+        "products":[
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "IceWave patches can be used to balance the energy of the Large Intestine meridian. The white patch is typically applied on the right side of the body, in the area of the Large Intestine 4 (LI4) acupuncture point, which is located in the webbing between the thumb and index finger. The tan patch is placed on the left side of the body, on the opposite corresponding point."
+            },
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Although X39 is primarily known for its benefits in stem cell activation, it may also have positive effects on overall stress reduction. It can be placed on acupuncture points associated with the Large Intestine meridian, such as LI4 or LI11."
+            },
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Aeon patches are beneficial for reducing inflammation and stress. They can be applied to acupuncture points associated with the Large Intestine meridian, such as LI11, located at the outer end of the elbow crease."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Glutathione patches can support detoxification and overall health. They can be placed over the area of the liver, which is typically on the right side of the body, just below the rib cage."
+            }
+        ]
+    },
+    {
+        "index": 65,
+        "key":"Yang of Stomach",
+        "img":"yang-of-stomach.png",
+        "products":[
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": ""
+            },
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Aeon patches can be beneficial for inflammation and stress reduction. Placing an Aeon patch on the acupuncture point known as 'Stomach 36' (located below the knee, four finger widths down from the kneecap, on the outside of the shinbone) may help support the balance of the Yang of Stomach."
+            },
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "X39 patches are known for their potential to activate stem cells and support overall well-being. Placing an X39 patch on the acupuncture point known as 'Stomach 36' may provide additional support to the Yang of Stomach."
+            }
+        ]
+    },
+    {
+        "index": 66,
+        "key":"Yin of Spleen",
+        "img":"yin-of-spleen.png",
+        "products":[
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Aeon patches can be placed on the Spleen 3 acupressure point, which is located on the inner side of the foot, about three finger-widths above the prominence of the inner ankle bone. Stimulating this point may help promote balance in the Spleen's Yin energy and reduce stress."
+            },
+            {
+                "id": 0,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Carnosine patches can be placed on the chest area, near the heart. While Carnosine is known for its benefits to heart tissues and respiratory problems, it can also indirectly support the overall energy balance in the body, including the Spleen's Yin energy."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Glutathione patches can be placed on the liver area, which is located on the right side of the body, just below the rib cage. The liver plays a significant role in supporting the Spleen's functions, and supporting liver health can indirectly benefit the Spleen."
+            },
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "IceWave patches can be placed on the Spleen 6 acupressure point, which is located about four finger-widths above the inner ankle bone. This point is known to help balance the Yin energy of the Spleen."
+            }
+        ]
+    },
+    {
+        "index": 67,
+        "key":"Yin of Heart",
+        "img":"yin-of-heart.png",
+        "products":[
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Aeon patch is known for its potential benefits in reducing inflammation and stress. Placing the Aeon patch on the HT7 acupoint, which is located on the inner wrist, can help harmonize the Yin energy of the Heart and promote a sense of calmness."
+            },
+            {
+                "id": 0,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Carnosine patch can be beneficial for heart tissues and respiratory problems. Placing the Carnosine patch on the PC6 acupoint, which is located on the inner forearm, about two finger-widths up from the wrist crease, can help balance the Yin energy of the Heart and support heart and respiratory functions."
+            },
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The X39 patch can be beneficial for overall stem cell activation and stress reduction. Placing the X39 patch on the CV17 acupoint, which is located in the center of the chest, can help support heart health and balance the Yin energy of the Heart."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Glutathione patches can support detoxification, liver health, and gallbladder health. Placing the Glutathione patch on the LV3 acupoint, which is located on the top of the foot, between the big toe and second toe, can help regulate the flow of energy in the liver meridian and support overall liver and gallbladder health."
+            }
+        ]
+    },
+    {
+        "index": 68,
+        "key":"Yang of Small intestine",
+        "img":"yang-of-small-intestine.png",
+        "products":[
+            {
+                "id":8,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "To apply the SP6 Complete patch, it is typically recommended to place it on the inside of the wrist, just above the wrist crease. This location corresponds to the acupressure point known as the 'Inner Gate' or 'P6' point, which is associated with the Small Intestine meridian."
+            }
+        ]
+    },
+    {
+        "index": 69,
+        "key":"Yang of Bladder",
+        "img":"yang-of-bladder.png",
+        "products":[
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Aeon patches are designed to help reduce inflammation and stress. For supporting bladder health, the Aeon patch can be placed on the lower abdomen area, just above the pubic bone. This placement aims to provide general support to the bladder region."
+            },
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "IceWave patches consist of two patchesÑone white (Yin) and one tan (Yang). The white patch is typically placed on the Yang acupuncture point, and the tan patch is placed on the Yin acupuncture point. These points are located on the feet."
+            }
+        ]
+    },
+    {
+        "index": 70,
+        "key":"Yin of Kidneys",
+        "img":"yin-of-kidneys.png",
+        "products":[
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "IceWave patches are designed to promote balance and harmony in the body. The white patch can be placed on the Yang side of the body, while the tan patch can be placed on the Yin side. For Yin imbalance of the Kidneys, you can try placing the white IceWave patch on the Yin side of the body, which is the left side."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Glutathione patches are known for their detoxification and antioxidant properties. They can support liver health, which is closely related to Kidney function. Placing the Glutathione patch on the lower back, specifically over the area of the Kidneys, may be beneficial."
+            }
+        ]
+    },
+    {
+        "index": 71,
+        "key":"Yin of Pericardium",
+        "img":"yin-of-pericardium.png",
+        "products":[
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Aeon is known for its potential benefits in reducing inflammation and stress. Again, while there are no specific guidelines for the Pericardium, you can consider placing the Aeon patch on acupuncture points associated with the Pericardium meridian, such as P6 or P8. These points are believed to be beneficial for balancing the energy of the Pericardium."
+            },
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "As you mentioned, X39 is known for its benefits in stem cell activation and overall stress reduction. While there are no specific guidelines for the Pericardium, the X39 patch can be placed on specific acupuncture points related to the Pericardium meridian, such as P6 (Nei Guan) or P8 (Lao Gong), which are commonly used in Traditional Chinese Medicine (TCM) for heart-related issues."
+            },
+            {
+                "id": 0,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Carnosine is known for its potential benefits for heart tissues and respiratory problems. While there are no specific guidelines for the Pericardium, you can consider placing the Carnosine patch on acupuncture points related to the heart meridian, such as HT7 (Shen Men). This point is often used in TCM for heart-related concerns."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Glutathione is known for its role in detoxification, liver health, and gallbladder health. To support these aspects, the Glutathione patch can be placed on acupuncture points related to the liver and gallbladder meridians. Common points used in TCM include LV3 (Tai Chong) or GB34 (Yang Ling Quan). Again, it's advisable to consult with a TCM practitioner for precise placement and guidance."
+            }   
+        ]
+    },
+    {
+        "index": 72,
+        "key":"Yang of Triple warmer",
+        "img":"yang-of-triple-warmer.png",
+        "products":[
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Aeon is known to help reduce inflammation and stress. Placing Aeon patches on specific acupuncture points associated with the Triple Warmer meridian, such as TW3 (Triple Warmer 3) located on the back of the hand between the fourth and fifth metacarpal bones, can be beneficial."
+            },
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "While X39 is primarily known for its stem cell activation benefits, it also supports overall stress reduction. Placing X39 patches on the area around the navel (known as the 'Sea of Energy' point) can help balance the Triple Warmer meridian."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Glutathione patches are known for their detoxification benefits, as well as supporting liver and gallbladder health. Placing Glutathione patches on the lower right side of the ribcage (where the liver is located) can indirectly support the balance of the Triple Warmer meridian."
+            } 
+        ]
+    },
+    {
+        "index": 73,
+        "key":"Yang of Gallbladder",
+        "img":"yang-of-gallbladder.png",
+        "products":[
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Aeon patch is useful for reducing inflammation and stress. It can be placed on the Gallbladder 21 (GB21) acupressure point, which is located at the highest point of the shoulder muscle, midway between the base of the neck and the tip of the shoulder."
+            },
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The X39 patch is known for its benefits in stem cell activation and overall stress reduction. It can be placed on the Gallbladder 34 (GB34) acupressure point, which is located on the lower leg, just in front of and below the head of the fibula bone."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Glutathione patches are beneficial for detoxification, liver health, and gallbladder health. They can be placed on the Liver 3 (LV3) acupressure point, which is located on the top of the foot, in the depression between the big toe and the second toe."
+            },
+            {
+                "id": 0,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Carnosine patch is known for its potential benefits for heart tissues and respiratory problems. For gallbladder-related issues, it may be useful to place the Carnosine patch on the Gallbladder 25 (GB25) acupressure point, which is located on the side of the abdomen, about 1 inch outward from the navel."
+            }
+        ]
+    },
+    {
+        "index": 74,
+        "key":"Yin of Liver",
+        "img":"yin-of-liver.png",
+        "products":[
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Aeon patches can be placed on the Liver Meridian points as well, in the same location as IceWave. Aeon is known for its benefits in reducing inflammation and promoting overall stress reduction, which can support the restoration of Yin-Yang balance."
+            },
+            {
+                "id": 3,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Silent Nights patches can be placed on the Yin Meridian points, which are located on the inside of the wrists, just above the wrist crease. These patches can assist in promoting relaxation and quality sleep, which may aid in restoring the Yin energy of the Liver."
+            },
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "IceWave patches can be placed on the Liver Meridian points, which are located on the inside of the ankles, just above the ankle bone. These patches may help in balancing the Yin energy of the Liver."
+            }
+        ]
+    },
+    {
+        "index": 78,
+        "key":"Head",
+        "products":[
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Aeon is often used for inflammation and stress reduction. Placing the Aeon patch on the back of the neck, near the base of the skull, can help address any inflammation or tension in the surrounding area that might be contributing to the blockages and low energy in the head. If the energy of the head area is overactive they may benefit from using specific LifeWave patches to help balance and harmonize their energy."
+            },
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "X39 is known for its benefits in stem cell activation and overall stress reduction. Placing the X39 patch at the base of the neck or upper back, near the spine, can help target the area of energy blockages and potentially support energy flow to the head."
+            }
+        ]
+    },
+    {
+        "index": 79,
+        "key":"Eyes",
+        "products":[
+            {
+                "id": 4,
+                "condition": "under",
+                "value": 4,
+                "description": "Aeon is often used for inflammation and stress reduction. Placing the Aeon patch on the back of the neck, near the base of the skull, can help address any inflammation or tension in the surrounding area that might be contributing to the blockages and low energy in the head. If the energy of the head area is overactive they may benefit from using specific LifeWave patches to help balance and harmonize their energy."
+            },
+            {
+                "id":2,
+                "condition": "under",
+                "value": 4,
+                "description": "X39 is known for its benefits in stem cell activation and overall stress reduction. Placing the X39 patch at the base of the neck or upper back, near the spine, can help target the area of energy blockages and potentially support energy flow to the head."
+            },
+            {
+                "id":7,
+                "condition": "over",
+                "value": 6,
+                "description": "IceWave patches can be placed on the Liver Meridian points, which are located on the inside of the ankles, just above the ankle bone. These patches may help in balancing the Yin energy of the Liver."
+            }
+        ]
+    },
+    {
+        "index": 81,
+        "key":"Jaw, Teeth",
+        "products":[
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The X39 patch is known for its potential benefits in stem cell activation and overall stress reduction. For someone experiencing high energy in their jaw and teeth, they can place the X39 patch in the following locations:"
+            },
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Aeon patch is commonly used for inflammation reduction and stress management. To address high energy in the jaw and teeth, the Aeon patch can be placed in the following ways:Apply the patch directly on the jaw joint or the area experiencing discomfort. Place the patch on acupressure points associated with jaw and teeth health to help balance the energy flow."
+            }
+        ]
+    },
+    {
+        "index": 82,
+        "key":"Cerebral zone (cortex)",
+        "products":[
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": ""
+            },
+            {
+                "id":5,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Energy Enhancer patches work by enhancing the flow of energy at the cellular level, which can help improve energy levels and mental clarity."
+            },
+            {
+                "id": 0,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Additionally, the use of the LifeWave Carnosine patch may also be beneficial for addressing low energy in the cerebral zone. Carnosine has been associated with cognitive function and brain health, and using the Carnosine patch may provide support to the brain tissues, potentially enhancing energy and mental performance."
+            }
+        ]
+    },
+    {
+        "index": 84,
+        "key":"Hypothalamus",
+        "products":[
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The X39 patch is often promoted for overall health and vitality, which some users believe may indirectly benefit the hypothalamus. While specific patch placements for hypothalamus support with the X39 patch are not commonly mentioned, general recommendations include placing the patch on clean and dry skin, preferably in areas with minimal hair."
+            },
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Aeon patch is often suggested for general wellness and stress reduction, which may indirectly support hypothalamus function. Some users recommend placing the Aeon patch on the 'GV 20' acupuncture point, also known as Baihui or Governing Vessel 20. This point is located on the top of the head, at the midpoint between the ears."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Glutathione patch, known for its potential antioxidant effects, is sometimes mentioned in relation to hypothalamus support. Users who target the hypothalamus suggest placing the patch on the 'GV 16' acupuncture point, located on the back of the head, between the upper ends of the neck muscles."
+            }
+        ]
+    },
+    {
+        "index": 85,
+        "key":"Epiphysis",
+        "products":[
+            {
+                "id": 0,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Carnosine patch is suggested by some users for potential epiphysis support. The recommended placement for the patch is on the forehead, specifically on the location between the eyebrows, which is associated with the pineal gland."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Glutathione is an antioxidant known for its potential benefits in promoting overall health and well-being. Some users suggest that the Y-Age Glutathione patch, placed on the forehead between the eyebrows, may indirectly support the pineal gland due to its antioxidant properties."
+            },
+            {
+                "id":5,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "While not specific to the epiphysis, some individuals may recommend the Energy Enhancer patch for overall energy support, which may indirectly benefit the pineal gland. Placement of these patches is often suggested on the acupuncture points known as 'Yintang' (located between the eyebrows) and 'GV20' or 'Baihui' (located on the top of the head)."
+            }
+        ]
+    },
+    {
+        "index": 86,
+        "key":"Pituitary gland",
+        "products":[
+            {
+                "id": 0,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Carnosine patch is often recommended by Lifewave users for potential pituitary gland support. The pituitary gland is a key component of the endocrine system, responsible for regulating hormone production and various bodily functions. Some users suggest placing the Carnosine patch on the forehead, in the area between the eyebrows, which is associated with the 'Yintang' acupuncture point."
+            },
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The X39 patch is another Lifewave product that has been mentioned for potential support of the pituitary gland. Users and distributors claim that the X39 patch may positively influence overall health and well-being, which could indirectly support the pituitary gland. You can plce the X39 on the back of the neck."
+            }
+        ]
+    },
+    {
+        "index": 87,
+        "key":"Cardiovascular system",
+        "products":[
+            {
+                "id": 0,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Carnosine is an amino acid that is believed to have antioxidant properties and potential benefits for cardiovascular health. Some users and distributors recommend the Carnosine patch for cardiovascular system support. Placement: The Carnosine patch is typically placed on the upper right side of the body, over the area of the right pectoral muscle."
+            },
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The X39 patch is often promoted for its potential benefits in promoting overall health and vitality. Some individuals suggest that the X39 patch may have positive effects on the cardiovascular system. Placement: The X39 patch is typically placed on the upper left side of the body, over the area of the left pectoral muscle."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Glutathione is an antioxidant known for its potential benefits in promoting overall health and well-being. Some individuals suggest that the Glutathione patch may have positive effects on the cardiovascular system due to its antioxidant properties. Placement: The Glutathione patch is often placed on the upper left side of the body, over the area of the left pectoral muscle."
+            }
+        ]
+    },
+    {
+        "index": 89,
+        "key":"Heart",
+        "products":[
+            {
+                "id": 0,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Carnosine is an antioxidant that is believed to have potential benefits for heart health. Some users suggest placing the Carnosine patch over the heart area, which is typically located on the left side of the chest."
+            },
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The IceWave patch is often recommended for pain relief and discomfort. Some users may suggest placing the patch over acupuncture points associated with heart health. These points could include 'Heart 7' (located on the inside of the wrist, in line with the little finger) or 'Pericardium 6' (located on the inside of the forearm, two finger-widths above the wrist crease)."
+            },
+            {
+                "id":5,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Energy Enhancer patch is commonly promoted for boosting energy levels. While some users may recommend placing the patches on specific acupuncture points associated with heart health, such as 'Heart 7' or 'Pericardium 6,' the specific effects on the heart are not scientifically proven."
+            }
+        ]
+    },
+    {
+        "index": 92,
+        "key":"Respiratory system",
+        "products":[
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Glutathione is an antioxidant that is known for its potential benefits in promoting overall health and supporting the immune system. Some users and distributors suggest that the Glutathione patch may indirectly support respiratory health due to its immune-enhancing properties. The patches can be placed on various locations, such as the upper chest or upper back, which are believed to influence lung function."
+            },
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The IceWave patch is often recommended by Lifewave users for addressing pain or discomfort associated with various conditions. While not directly targeted for respiratory system support, some users may place the patches on specific acupuncture points associated with respiratory health, such as 'Lung 7' or 'Ren 22.' These points are located on the wrist and the sternum, respectively."
+            },
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The X39 patch is often promoted for its purported ability to support overall health and vitality. While not specifically targeted for respiratory system support, some users may place the patches on acupuncture points associated with the lung meridian, such as 'Lung 9' or 'Lung 11.' These points are located on the wrist and the elbow, respectively."
+            }
+        ]
+    },
+    {
+        "index": 94,
+        "key":"Mammary glands Respiratory system",
+        "products":[
+            {
+                "id": 0,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Carnosine patch is often mentioned for its potential benefits in supporting breast health. Carnosine is an antioxidant that is believed to have protective properties. Some users and distributors may recommend placing the Carnosine patch on the upper chest area, directly over or near the mammary glands."
+            }
+        ]
+    },
+    {
+        "index": 96,
+        "key":"Endocrine system",
+        "products":[
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Glutathione is an antioxidant that plays a role in cellular health and detoxification. Some users and distributors suggest placing the Glutathione patch on the left side of the body, below the rib cage, over the location of the spleen, which is an important organ involved in the immune and endocrine systems."
+            },
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The IceWave patch is often recommended for pain relief. Some users may suggest placing the IceWave patches on acupuncture points associated with the endocrine system, such as the 'Spleen 6' point (located on the inside of the lower leg, above the ankle) or the 'Stomach 36' point (located on the outside of the lower leg, below the knee)."
+            },
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The SP6 patch is commonly recommended to be placed on the Spleen 6 acupuncture point, also known as the Yinlingquan point. This point is located on the inner side of the lower leg, about three finger-widths above the ankle bone. To promote the endocrine system, you can place the SP6 patch on the Spleen 6 acupuncture point on both legs. This point is believed to stimulate the flow of energy and support the balance of the endocrine system."
+            }
+        ]
+    },
+    {
+        "index": 100,
+        "key":"Thyroid gland",
+        "products":[
+            {
+                "id":5,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Energy Enhancer patch is often recommended by Lifewave users for overall energy support. Some individuals may suggest placing one patch on the 'Yintang' acupuncture point, located between the eyebrows. This point is believed to be associated with the thyroid gland and its functions."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Glutathione is an antioxidant that has been associated with potential health benefits. Some users may suggest placing the Glutathione patch on the throat area, directly over the thyroid gland, as a means of supporting its health. It's important to note that scientific evidence supporting this specific placement is limited."
+            },
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The IceWave patch is often used for pain management. Some individuals may suggest placing one patch on the throat area or along the energy meridians associated with the thyroid gland, such as the 'Stomach Meridian' or 'Thyroid Meridian.' This placement is believed to potentially support the thyroid gland."
+            },
+            {
+                "id":8,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": ""
+            }
+        ]
+    },
+    {
+        "index": 101,
+        "key":"Pancreas",
+        "products":[
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Glutathione is an antioxidant known for its potential health benefits. Some users believe that the Glutathione patch may have a positive effect on pancreatic health due to its antioxidant properties. Placing the Glutathione patch over the pancreatic area, which is typically located in the upper abdomen, may be suggested."
+            },
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The IceWave patch is often recommended for addressing pain or discomfort associated with various conditions. While not directly targeting the pancreas, some users may suggest placing the IceWave patch over the pancreatic area to potentially address discomfort or promote a sense of well-being."
+            }
+        ]
+    },
+    {
+        "index": 102,
+        "key":"Adrenals",
+        "products":[
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Glutathione is an antioxidant known for its potential health benefits. Some users believe that the Glutathione patch may have a positive effect on pancreatic health due to its antioxidant properties. Placing the Glutathione patch over the pancreatic area, which is typically located in the upper abdomen, may be suggested."
+            },
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The IceWave patch is often recommended for addressing pain or discomfort associated with various conditions. While not directly targeting the pancreas, some users may suggest placing the IceWave patch over the pancreatic area to potentially address discomfort or promote a sense of well-being."
+            },
+            {
+                "id":5,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Energy Enhancer patch is commonly used to promote energy and vitality. Some users and distributors recommend placing the patch on specific acupuncture points, such as 'SP6' (located on the inner lower leg, about four finger-widths above the ankle bone), which is believed to be connected to adrenal function."
+            },
+            {
+                "id":8,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The SP6 Complete patch is specifically designed to target the 'SP6' acupuncture point, which is believed to be associated with adrenal health. This patch is suggested by users and distributors for potential adrenal support."
+            }
+        ]
+    },
+    {
+        "index": 103,
+        "key":"Spleen",
+        "products":[
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The IceWave patch is often recommended for addressing pain or discomfort. Some users may suggest placing the IceWave patch on specific acupuncture points associated with spleen support, such as 'Spleen 6' (located on the inner lower leg, above the ankle bone) or 'Spleen 9' (located on the inner lower leg, below the knee)."
+            },
+            {
+                "id":5,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Energy Enhancer patch is claimed to promote energy and stamina. While the spleen plays a role in energy metabolism, there are no specific scientific recommendations for the placement of this patch for spleen support."
+            },
+            {
+                "id":8,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The SP6 Complete patch is designed to target specific acupuncture points associated with the spleen. The suggested placement is 'Spleen 6' (located on the inner lower leg, above the ankle bone), which is believed to support spleen function."
+            }
+        ]
+    },
+    {
+        "index": 104,
+        "key":"Musculoskeletal system",
+        "products":[
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The IceWave patch is often recommended by Lifewave users for addressing pain and discomfort associated with the musculoskeletal system."
+            },
+            {
+                "id":5,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Energy Enhancer patch is suggested by some Lifewave users to promote energy and vitality, which may indirectly support the musculoskeletal system."
+            },
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The X39 patch is often promoted for its potential overall health benefits, which may include support for the musculoskeletal system. However, specific patch placements or acupuncture points are not typically mentioned in relation to the X39 patch."
+            }
+        ]
+    },
+    {
+        "index": 105,
+        "key":"Spine - cervical zone",
+        "products":[
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The IceWave patch is often suggested by users for pain relief associated with various conditions, including neck and cervical spine discomfort. Some users place the patches on the affected area, such as the back of the neck or specific trigger points, to potentially alleviate discomfort."
+            },
+            {
+                "id":5,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Energy Enhancer patch is claimed to promote energy and stamina. While there is no specific scientific evidence supporting its use for cervical zone support, some users may recommend placing the patches on acupuncture points associated with the neck or cervical spine. For example, the 'Fengchi' (GB20) point, located at the base of the skull, where the neck muscles attach, is often targeted with these patches."
+            }
+        ]
+    },
+    {
+        "index": 106,
+        "key":"Spine - thorax zone",
+        "products":[
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The IceWave patch is commonly used for temporary relief of minor aches and pains. It may be suggested for discomfort in the spine-thorax zone. Users may place the white IceWave patch on acupuncture points associated with the spine, such as 'Governor Vessel 14' (located in the midline of the upper back) or other points along the spine. The brown IceWave patch is typically placed on acupuncture points near the area of pain or discomfort."
+            },
+            {
+                "id":5,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Energy Enhancer patch is promoted for supporting energy and stamina. While some users believe it may provide general support to the spine-thorax zone, there is no specific scientific evidence to substantiate this claim."
+            },
+            {
+                "id": 0,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Energy Enhancer patch is claimed to promote energy and stamina. While there is no specific scientific evidence supporting its use for cervical zone support, some users may recommend placing the patches on acupuncture points associated with the neck or cervical spine."
+            }
+        ]
+    },
+    {
+        "index": 107,
+        "key":"Spine - lumbar zone",
+        "products":[
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The IceWave patch is often mentioned for its potential to address pain or discomfort in various areas of the body. For lumbar support, some users suggest placing the white IceWave patch on the spine at the level of the lower back where the discomfort or pain is experienced."
+            },
+            {
+                "id":5,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Energy Enhancer patch is claimed to promote energy and vitality. Users may suggest placing the tan Energy Enhancer patch on the lower back, targeting the lumbar area."
+            },
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Y-Age Aeon patch is often recommended for overall well-being and stress reduction. For lumbar support, users may suggest placing the Aeon patch on the lower back area, targeting the lumbar spine."
+            }
+        ]
+    },
+    {
+        "index": 108,
+        "key":"Sacrum",
+        "products":[
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The IceWave patch is often recommended by Lifewave users for addressing pain and discomfort in different areas of the body, including the sacrum. It consists of two patchesÑone with a white surface and another with a tan surface."
+            },
+            {
+                "id":5,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Energy Enhancer patch is suggested for promoting energy and vitality. While not directly targeted at the sacrum, some individuals may use this patch to support overall well-being, including potential relief of discomfort in the sacral area."
+            }
+        ]
+    },
+    {
+        "index": 110,
+        "key":"Digestive system",
+        "products":[
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Glutathione patch is often promoted for its antioxidant properties and potential benefits for overall health. Some individuals have suggested placing the patches on acupuncture points associated with digestive health, such as the 'Zusanli' point, located on the outside of the lower leg below the knee."
+            },
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The IceWave patch is often recommended for its potential pain-relieving effects, which may indirectly support digestive system discomfort. For digestive concerns, users have reported placing the patches on specific locations associated with the digestive system, such as the abdomen or over the stomach area."
+            },
+            {
+                "id":5,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Energy Enhancer patch is claimed to promote energy and stamina. While not specifically targeted for digestive system support, some individuals have reported using these patches on points related to digestion, such as the 'Tianshu' point, located on the abdomen."
+            },
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Aeon patch is often recommended for stress reduction and general wellness. As stress can affect digestion, users may suggest placing the patch on the 'Shenmen' point, located on the ear, which is associated with relaxation and stress relief."
+            }
+        ]
+    },
+    {
+        "index": 111,
+        "key":"Colon - descending",
+        "products":[
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The IceWave patch is often recommended by Lifewave users for addressing pain or discomfort in various areas, including the digestive system. For the ascending colon, some users suggest placing the IceWave patches on the lower right side of the abdomen, where the ascending colon is located."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Glutathione is an antioxidant that plays a role in supporting overall health and well-being. While there is no specific scientific evidence supporting its use for the ascending colon, some users have reported using the Glutathione patch in the lower right abdomen area, corresponding to the location of the ascending colon."
+            }
+            
+        ]
+    },
+    {
+        "index": 112,
+        "key":"Colon - sigmoid",
+        "products":[
+            {
+                "id":7,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The IceWave patch is often recommended by Lifewave users for addressing pain or discomfort in various areas, including the digestive system. For the ascending colon, some users suggest placing the IceWave patches on the lower right side of the abdomen, where the ascending colon is located."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "Glutathione is an antioxidant that plays a role in supporting overall health and well-being. While there is no specific scientific evidence supporting its use for the ascending colon, some users have reported using the Glutathione patch in the lower right abdomen area, corresponding to the location of the ascending colon."
+            }
+            
+        ]
+    },
+    {
+        "index": 114,
+        "key":"Blind Gut",
+        "products":[
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "When using the Aeon patch to promote a healthy gut, it is recommended to place the patch in the following area: Abdomen: Apply the Aeon patch directly on the abdomen, preferably over the lower abdomen or the area where you feel discomfort or digestive issues. Ensure that the patch adheres well to the skin for optimal effectiveness. By placing the Aeon patch on the abdomen, it allows the patch's energy and benefits to be in close proximity to the digestive system, promoting balance and well-being in the gut."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "To promote a healthy gut, it is recommended to place the Glutathione patch on the area of the body that corresponds to the gut region. This area is typically located around the navel or the lower abdomen. By applying the patch in this region, the active ingredients in the Glutathione patch can be absorbed into the bloodstream and support the gut's overall health and well-being."
+            },
+            {
+                "id":0,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "To promote a healthy gut, it is recommended to place the Carnosine patch in the abdominal area. Specifically, you can apply the patch over the lower abdomen, where the digestive organs are located."
+            },
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "When using the X39 patch to promote a healthy gut, it is recommended to place the patch directly over the navel area or the lower abdomen. This area is believed to be energetically connected to the digestive system and can provide targeted support for gut health."
+            }
+        ]
+    },
+    {
+        "index": 120,
+        "key":"Liver",
+        "products":[
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "When using the Aeon patch to promote liver health, it is recommended to apply the patch to specific acupuncture points that are associated with liver meridian. Here are two commonly recommended acupuncture points for liver support: Liver 3 (LV3), Liver 14 (LV14)."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The recommended placement for the Glutathione patch to promote liver health is on the right side of the body, specifically on the upper abdomen, just below the ribcage. This area is known as the right hypochondrium region and is in close proximity to the liver."
+            },
+            {
+                "id":0,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "When using the Carnosine patch to promote liver health, it is recommended to apply the patch on specific acupuncture points that are associated with liver function. The following acupuncture points are commonly used for liver support: Liver 3 (LV3, Taichong), Gallbladder 34 (GB34, Yanglingquan), Conception Vessel 6 (CV6, Qihai)."
+            },
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The X39 patch by Lifewave can be placed on specific acupuncture points to support liver health. For promoting liver function and overall well-being, the following acupuncture points are commonly recommended: Liver 3 (LV3), Gallbladder 34 (GB34), Ren 3 (CV3), Spleen 6 (SP6)."
+            }
+        ]
+    },
+    {
+        "index": 122,
+        "key":"Gallbladder",
+        "products":[
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "When using the Aeon patch to promote the pancreas, it is recommended to place the patch on specific acupuncture points associated with pancreatic function. Here are a few acupuncture points that are commonly used for pancreatic support: Ren-12 (Zhongwan), St-25 (Tianshu), Sp-3 (Taibai), Liv-13 (Zhangmen)."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "When using the Glutathione patch to promote pancreatic health, it is recommended to place the patch on specific acupuncture points that correspond to the pancreas. Here are a few acupuncture points commonly used for pancreatic support: Ren-6 (Qihai), Ren-12 (Zhongwan), Spleen-6 (Sanyinjiao)."
+            },
+            {
+                "id":0,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The Carnosine patch can be applied to specific acupuncture points to promote pancreatic health. Here are a few acupuncture points commonly recommended for this purpose: Spleen 6 (SP6), Stomach 36 (ST36), Ren 12 (CV12), Stomach-36 (Zusanli)."
+            },
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "For promoting pancreatic health, it is generally recommended to apply the X39 patch on the upper abdomen, slightly to the left or right of the midline, in the area corresponding to the location of the pancreas. This can be around the level of the navel or slightly above it."
+            }
+        ]
+    },
+    {
+        "index": 125,
+        "key":"Urogenital system",
+        "products":[
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "When using the Aeon patch to promote the urogenital system, there are specific acupuncture points that are commonly recommended for placement. These points are believed to support the overall balance and energy flow in the urogenital region. Here are a few acupuncture points to consider: CV3 (Zhongji), CV4 (Guanyuan), KD3 (Taixi)."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "When using the Glutathione patch to promote the urogenital system, it is recommended to apply the patch on specific acupuncture points that correspond to this area. The following acupuncture points are commonly used to support urogenital health: Ren 3 (Zhongji), Ren 4 (Guanyuan), Ren 6 (Qihai), Kidney 3 (Taixi)."
+            },
+            {
+                "id":0,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "When using the Carnosine patch to promote the Urogenitals, there are several acupuncture points that are commonly recommended. Here are a few points that you can consider: CV3 (Zhongji), CV4 (Guanyuan), SP6 (Sanyinjiao), Ren 6 (Qihai). It is believed to tonify the kidneys, strengthen the reproductive system, and regulate the lower abdomen."
+            },
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The X39 patch can be applied to specific acupuncture points to promote the Urogenitals. Here are a few recommended points: 1. CV3 (Zhongji) 2. CV4 (Guanyuan) 3. SP6 (Sanyinjiao) 4. BL23 (Shenshu). Please note that it is essential to consult a qualified acupuncturist or healthcare practitioner for personalized advice regarding the specific acupuncture points suitable for your needs and to ensure proper application of the X39 patch."
+            }
+        ]
+    },
+    {
+        "index": 127,
+        "key":"Kidneys",
+        "products":[
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "When using the Aeon patch to promote the health of the Kidneys, it is recommended to place the patch on specific acupuncture points related to the Kidney meridian. Here are a few acupuncture points commonly used for Kidney support: Kidney 3 (KI-3), Kidney 7 (KI-7), Kidney 27 (KI-27), Kidney 6 (KI-6)."
+            },
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "When using the Glutathione patch to promote kidney health, it is recommended to place the patch on specific acupuncture points that correspond to the kidneys. Here are a few acupuncture points commonly used for kidney support: Kidney 3 (KI-3), Kidney 7 (KI-7), Kidney 10 (KI-10), Kidney 27 (KI-27)."
+            },
+            {
+                "id":0,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "When using the Carnosine patch to promote kidney health, it is recommended to apply the patch on specific acupuncture points associated with the kidneys. Here are a few acupuncture points commonly used for kidney support: Kidney 3 (KI 3), Kidney 6 (KI 6), Kidney 7 (KI 7)."
+            },
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The X39 patch can be applied to specific acupuncture points to promote kidney health and vitality. One recommended point for kidney support is Kidney 3 (KI-3), also known as Taixi. This point is located on the inner ankle, in the depression between the Achilles tendon and the ankle bone. Another beneficial point is Kidney 6 (KI-6), also called Zhaohai, which is found approximately one thumb-width below the inner ankle bone."
+            }
+        ]
+    },
+    {
+        "index": 128,
+        "key":"Nervous system",
+        "products":[
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The X39 patch by LifeWave is a remarkable tool for promoting overall wellness, including supporting the nervous system. Acupuncture points commonly associated with supporting the nervous system include: Baihui (GV20), Shenmen (HT7) ,Neiguan (PC6), Fengchi (GB20)."
+            },
+            {
+                "id":4,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "When using the Aeon patch to promote the nervous system, there are several acupuncture points that can be beneficial. Here are a few points commonly recommended for promoting nervous system balance: 1. Shenmen (HT7) 2. Neiguan (PC6) 3. Baihui (GV20) 4. Yintang (EX-HN3). They can provide personalized guidance and ensure proper application for optimal results."
+            }
+        ]
+    },
+    {
+        "index": 130,
+        "key":"Immune system",
+        "products":[
+            {
+                "id":6,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "When using the Glutathione patch to promote the nervous system, there are several acupuncture points you can consider for placement. Here are a few commonly recommended points: Governing Vessel 20 (GV20), Pericardium 6 (PC6), Heart 7 (HT7), Vessel 6 (CV6)."
+            },
+            {
+                "id":2,
+                "condition": "under or over",
+                "value": [4,6],
+                "description": "The X39 patch from LifeWave can be placed on various acupuncture points to promote the health and balance of the nervous system. Here are some recommended acupuncture points for applying the X39 patch: 1. GV20 (Baihui), 2. GV14 (Dazhui), 3. GV4 (Mingmen), 4. PC6 (Neiguan), 5. HT7 (Shenmen). Remember to consult with a trained acupuncturist or healthcare professional to determine the best placement of the X39 patch based on your specific needs and health condition."
+            }
+        ]
+    }
+]

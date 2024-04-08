@@ -1,0 +1,993 @@
+[
+    {
+        "index": 1,
+        "name":"Ear Apex",
+        "x": 315,
+        "y": 125
+    },
+    {
+        "index": 2,
+        "name":"Tonsil #1",
+        "x": 340,
+        "y": 127
+    },
+    {
+        "index": 3,
+        "name":"Common Cold",
+        "x": 275,
+        "y": 150
+    },
+    {
+        "index": 4,
+        "name":"Hemorrhoids",
+        "x": 250,
+        "y": 160
+    },
+    {
+        "index": 5,
+        "name":"Proximal Segment Rectum",
+        "x": 272,
+        "y": 162
+    },
+    {
+        "index": 6,
+        "name":"Lower Blood Pressure",
+        "x": 295,
+        "y": 164
+    },
+    {
+        "index": 7,
+        "name":"Heel",
+        "x": 325,
+        "y": 167
+    },
+    {
+        "index": 8,
+        "name":"Toes",
+        "x": 350,
+        "y": 177
+    },
+    {
+        "index": 9,
+        "name":"External Genitalia",
+        "x": 267,
+        "y": 167
+    },
+    {
+        "index": 10,
+        "name":"Urethra",
+        "x": 265,
+        "y": 180,
+        "category": "Urogenital system"
+    },
+    {
+        "index": 11,
+        "name":"Ulterus",
+        "x": 280,
+        "y": 184
+    },
+    {
+        "index": 12,
+        "name":"Ankle",
+        "x": 335,
+        "y": 185
+    },
+    {
+        "index": 13,
+        "name":"Appendix #1",
+        "x": 368,
+        "y": 187,
+        "category": "Appendix"
+    },
+    {
+        "index": 14,
+        "name":"Sympathetic",
+        "x": 230,
+        "y": 200
+    },
+    {
+        "index": 15,
+        "name":"Distal Segment Rectum",
+        "x": 245,
+        "y": 195
+    },
+    {
+        "index": 16,
+        "name":"Adnexa",
+        "x": 285,
+        "y": 205
+    },
+    {
+        "index": 17,
+        "name":"Wheezing",
+        "x": 305,
+        "y": 210
+    },
+    {
+        "index": 18,
+        "name":"Neurogate",
+        "x": 330,
+        "y": 209
+    },
+    {
+        "index": 19,
+        "name":"Gastrocnemius",
+        "x": 340,
+        "y": 214
+    },
+    {
+        "index": 20,
+        "name":"Knee Joint",
+        "x": 347,
+        "y": 210
+    },
+    {
+        "index": 21,
+        "name":"Fingers",
+        "x": 373,
+        "y": 210
+    },
+    {
+        "index": 22,
+        "name":"Lesser Occipital Nerve",
+        "x": 383,
+        "y": 219
+    },
+    {
+        "index": 23,
+        "name":"Liver Yang 1",
+        "x": 408,
+        "y": 209,
+        "category": "Liver"
+    },
+    {
+        "index": 24,
+        "name":"Sciatic Nerve",
+        "x": 260,
+        "y": 225,
+        "category": "Sacrum"
+    },
+    {
+        "index": 25,
+        "name":"Hepatitis",
+        "x": 330,
+        "y": 223
+    },
+    {
+        "index": 26,
+        "name":"Prostate",
+        "x": 225,
+        "y": 235,
+        "category": "Prostate"
+    },
+    {
+        "index": 27,
+        "name":"Hip Joint",
+        "x": 310,
+        "y": 237,
+        "category": "Coccyx  Pelvis minor zone"
+    },
+    {
+        "index": 28,
+        "name":"Pelvic Cavity",
+        "x": 325,
+        "y": 245,
+        "category": "Coccyx  Pelvis minor zone"
+    },
+    {
+        "index": 29,
+        "name":"Popliteal Fossa",
+        "x": 333,
+        "y": 255
+    },
+    {
+        "index": 30,
+        "name":"Hip Joint",
+        "x": 345,
+        "y": 245
+    },
+    {
+        "index": 31,
+        "name":"Knee",
+        "x": 357,
+        "y": 257
+    },
+    {
+        "index": 32,
+        "name":"Urethra",
+        "x": 190,
+        "y": 260
+    },
+    {
+        "index": 33,
+        "name":"Bladder",
+        "x": 255,
+        "y": 275
+    },
+    {
+        "index": 34,
+        "name":"Buttocks",
+        "x": 315,
+        "y": 275
+    },
+    {
+        "index": 35,
+        "name":"Hot",
+        "x": 345,
+        "y": 285
+    },
+    {
+        "index": 36,
+        "name":"Lower Abdomen",
+        "x": 392,
+        "y": 275,
+        "category": "Abdominal zone"
+    },
+    {
+        "index": 37,
+        "name":"Allergy",
+        "x": 402,
+        "y": 278
+    },
+    {
+        "index": 38,
+        "name":"Wrist",
+        "x": 412,
+        "y": 283
+    },
+    {
+        "index": 39,
+        "name":"Blood Base",
+        "x": 230,
+        "y": 285
+    },
+    {
+        "index": 40,
+        "name":"Ureter",
+        "x": 275,
+        "y": 295,
+        "category": "Urogenital system"
+    },
+    {
+        "index": 41,
+        "name":"Abdomen",
+        "x": 365,
+        "y": 290,
+        "category": "Abdominal zone"
+    },
+    {
+        "index": 42,
+        "name":"Helix #1",
+        "x": 450,
+        "y": 292
+    },
+    {
+        "index": 43,
+        "name":"Anus",
+        "x": 200,
+        "y": 325,
+        "category": "Rectum"
+    },
+    {
+        "index": 44,
+        "name":"Colon #1",
+        "x": 253,
+        "y": 311,
+        "category": "Colon - descending"
+    },
+    {
+        "index": 45,
+        "name":"Kidney",
+        "x": 300,
+        "y": 313,
+        "category": "Kidneys"
+    },
+    {
+        "index": 46,
+        "name":"Large Intestine",
+        "x": 250,
+        "y": 350,
+        "category": ["Colon - descending", "Colon - sigmoid", "Colon - transverse"]
+    },
+    {
+        "index": 47,
+        "name":"Colon #2",
+        "x": 283,
+        "y": 325,
+        "category": ["Colon - sigmoid", "Colon - ascending"]
+    },
+    {
+        "index": 48,
+        "name":"Pancreas",
+        "x": 325,
+        "y": 330,
+        "category": "Pancreas"
+    },
+    {
+        "index": 49,
+        "name":"Lumbar Vertabrae",
+        "x": 405,
+        "y": 328,
+        "category": "Spine - lumbar zone"
+    },
+    {
+        "index": 50,
+        "name":"Liver Yang 2",
+        "x": 445,
+        "y": 325,
+        "category": "Liver"
+    },
+    {
+        "index": 51,
+        "name":"Appendix",
+        "x": 294,
+        "y": 354,
+        "category": "Appendix"
+    },
+    {
+        "index": 52,
+        "name":"Small Intestine",
+        "x": 303,
+        "y": 362,
+        "category": ["Ileum", "Jejunum"]
+    },
+    {     
+        "index": 53,
+        "name":"Duodenum",
+        "x": 329,
+        "y": 363,
+        "category": "Duodenum"
+    },
+    {
+        "index": 54,
+        "name":"Nervous Dysfunction",
+        "x": 310,
+        "y": 395,
+        "category": "Nervous system"
+    },
+    {
+        "index": 55,
+        "name":"Stomach",
+        "x": 340,
+        "y": 398
+    },
+    {
+        "index": 56,
+        "name":"Heart",
+        "x": 200,
+        "y": 412,
+        "category": ["Cerebral zone (vessels)", "Heart"]
+    },
+    {
+        "index": 57,
+        "name":"Esophagus",
+        "x": 290,
+        "y": 418
+    },
+    {
+        "index": 58,
+        "name":"Thorax",
+        "x": 410,
+        "y": 415,
+        "category": "Thorax zone"
+    },
+    {
+        "index": 60,
+        "name":"Spleen",
+        "x": 360,
+        "y": 430,
+        "category": "Spleen"
+    },
+    {
+        "index": 61,
+        "name":"Thoracic Vertebrae",
+        "x": 395,
+        "y": 445,
+        "category": "Spine - thorax zone"
+    },
+    {
+        "index": 62,
+        "name":"Clear Nose/Eyes",
+        "x": 215,
+        "y": 448
+    },
+    {
+        "index": 63,
+        "name":"Upper Lung",
+        "x": 317,
+        "y": 449,
+        "category": "Respiratory system"
+    },
+    {
+        "index": 64,
+        "name":"External Nose",
+        "x": 195,
+        "y": 460,
+        "category": "Ears  nose  maxillary sinus"
+    },
+    {
+        "index": 65,
+        "name":"Heart",
+        "x": 298,
+        "y": 460,
+        "category": "Cerebral zone (vessels)"
+    },
+    {
+        "index": 66,
+        "name":"Cerieal Vertbrae",
+        "x": 385,
+        "y": 470
+    },
+    {
+        "index": 67,
+        "name":"Adrenal",
+        "x": 219,
+        "y": 490,
+        "category": "Adrenals"
+    },
+    {
+        "index": 68,
+        "name":"Upper Abdomen",
+        "x": 234,
+        "y": 480,
+        "category": "Abdominal zone"
+    },
+    {
+        "index": 69,
+        "name":"Brain Stem",
+        "x": 324,
+        "y": 491,
+        "category": "Head"
+    },
+    {
+        "index": 70,
+        "name":"Hypertension",
+        "x": 195,
+        "y": 515,
+        "category": ["Hypothalamus", "Epiphysis", "Endocrine system"]
+    },
+    {
+        "index": 71,
+        "name":"Hormone",
+        "x": 225,
+        "y": 505
+    },
+    {
+        "index": 72,
+        "name":"Throat and Teeth",
+        "x": 340,
+        "y": 510,
+        "category": "Throat  larynx  trachea"
+    },
+    {
+        "index": 73,
+        "name":"Neck",
+        "x": 369,
+        "y": 493
+    },
+    {
+        "index": 74,
+        "name":"Pituitary",
+        "x": 290,
+        "y": 550,
+        "category": "Pituitary gland"
+    },
+    {
+        "index": 75,
+        "name":"Vertex",
+        "x": 320,
+        "y": 560
+    },
+    {
+        "index": 76,
+        "name":"Thyroid #1",
+        "x": 374,
+        "y": 535,
+        "category": "Thyroid gland"
+    },
+    {
+        "index": 77,
+        "name":"Dismal Segment Rectum",
+        "x": 220,
+        "y": 355,
+        "category": "Rectum"
+    },
+    {
+        "index": 78,
+        "name":"Prolapse",
+        "x": 350,
+        "y": 380
+    },
+    {
+        "index": 79,
+        "name":"Abdomen",
+        "x": 410,
+        "y": 385
+    },
+    {
+        "index": 80,
+        "name":"Appendix #2",
+        "x": 420,
+        "y": 395,
+        "category": "Appendix"
+    },
+    {
+        "index": 81,
+        "name":"Helix",
+        "x": 450,
+        "y": 385
+    },
+    {
+        "index": 82,
+        "name":"External Ear",
+        "x": 180,
+        "y": 355,
+        "category": "Ears  nose  maxillary sinus"
+    },
+    {
+        "index": 83,
+        "name":"Diaphragm",
+        "x": 280,
+        "y": 385
+    },
+    {
+        "index": 84,
+        "name":"Midear",
+        "x": 300,
+        "y": 385
+    },
+    {
+        "index": 85,
+        "name":"Nervous Dysfunction",
+        "x": 314,
+        "y": 375
+    },
+    {
+        "index": 86,
+        "name":"Branch",
+        "x": 295,
+        "y": 400
+    },
+    {
+        "index": 87,
+        "name":"Relax Muscles",
+        "x": 375,
+        "y": 410
+    },
+    {
+        "index": 88,
+        "name":"Shoulder",
+        "x": 423,
+        "y": 420
+    },
+    {
+        "index": 89,
+        "name":"Axilla",
+        "x": 415,
+        "y": 440
+    },
+    {
+        "index": 90,
+        "name":"Tonsil",
+        "x": 440,
+        "y": 441
+    },
+    {
+        "index": 91,
+        "name":"Pylorus",
+        "x": 330,
+        "y": 423
+    },
+    {
+        "index": 92,
+        "name":"New Eye",
+        "x": 315,
+        "y": 428
+    },
+    {
+        "index": 93,
+        "name":"Mouth",
+        "x": 275,
+        "y": 435
+    },
+    {
+        "index": 94,
+        "name":"Lower Abdomen",
+        "x": 250,
+        "y": 430,
+        "category": "Abdominal zone"
+    },
+    {
+        "index": 95,
+        "name":"Tragus Apex",
+        "x": 235,
+        "y": 437
+    },
+    {
+        "index": 96,
+        "name":"Thirst",
+        "x": 195,
+        "y": 437
+    },
+    {
+        "index": 97,
+        "name":"Hunger",
+        "x": 195,
+        "y": 487
+    },
+    {
+        "index": 98,
+        "name":"Bronchi",
+        "x": 290,
+        "y": 445,
+        "category": "Respiratory system"
+    },
+    {
+        "index": 99,
+        "name":"Lateral Lung",
+        "x": 345,
+        "y": 430,
+        "category": "Respiratory system"
+    },
+    {
+        "index": 100,
+        "name":"Helix",
+        "x": 260,
+        "y": 705
+    },
+    {
+        "index": 101,
+        "name":"Tonsil",
+        "x": 265,
+        "y": 673
+    },
+    {
+        "index": 102,
+        "name":"Eye",
+        "x": 258,
+        "y": 637,
+        "category": "Eyes"
+    },
+    {
+        "index": 103,
+        "name":"Inner Ear",
+        "x": 301,
+        "y": 637,
+        "category": "Ears  nose  maxillary sinus"
+    },
+    {
+        "index": 104,
+        "name":"Mandible",
+        "x": 330,
+        "y": 568
+    },
+    {
+        "index": 105,
+        "name":"Maxilla",
+        "x": 325,
+        "y": 599
+    },
+    {
+        "index": 106,
+        "name":"Helix",
+        "x": 333,
+        "y": 623
+    },
+    {
+        "index": 107,
+        "name":"Upper Palate",
+        "x": 286,
+        "y": 606
+    },
+    {
+        "index": 109,
+        "name":"Lower Palate",
+        "x": 244,
+        "y": 592
+    },
+    {
+        "index": 110,
+        "name":"Raise Blood Pressure",
+        "x": 207,
+        "y": 589
+    },
+    {
+        "index": 111,
+        "name":"Neurasthenia",
+        "x": 204,
+        "y": 621
+    },
+    {
+        "index": 112,
+        "name":"Tooth Extraction Anesthetic",
+        "x": 220,
+        "y": 604
+    },
+    {
+        "index": 113,
+        "name":"Tooth Extraction Anesthetic",
+        "x": 220,
+        "y": 643
+    },
+    {
+        "index": 114,
+        "name":"Tongue",
+        "x": 254,
+        "y": 601
+    },
+    {
+        "index": 115,
+        "name":"Vision #1",
+        "x": 248,
+        "y": 567,
+        "category": "Eyes"
+    },
+    {
+        "index": 116,
+        "name":"Forehead",
+        "x": 263,
+        "y": 584,
+        "category": "Head"
+    },
+    {
+        "index": 117,
+        "name":"Temple",
+        "x": 277,
+        "y": 538,
+        "category": "Head"
+    },
+    {
+        "index": 118,
+        "name":"Wheezing",
+        "x": 283,
+        "y": 519
+    },
+    {
+        "index": 119,
+        "name":"Tooth Extraction Anesthetic",
+        "x": 220,
+        "y": 643
+    },
+    {
+        "index": 120,
+        "name":"Partoid Gland",
+        "x": 284,
+        "y": 499
+    },
+    {
+        "index": 121,
+        "name":"Brain",
+        "x": 300,
+        "y": 496,
+        "category": "Head"
+    },
+    {
+        "index": 122,
+        "name":"Verigo",
+        "x": 311,
+        "y": 493
+    },
+    {
+        "index": 123,
+        "name":"Thyroid #2",
+        "x": 338,
+        "y": 491,
+        "category": "Thyroid gland"
+    },
+    {
+        "index": 124,
+        "name":"Occiput",
+        "x": 316,
+        "y": 513,
+        "category": "Cerebral zone (cortex)"
+    },
+    {
+        "index": 125,
+        "name":"Vision #2",
+        "x": 205,
+        "y": 531,
+        "category": "Eyes"
+    },
+    {
+        "index": 126,
+        "name":"Thyroid #3",
+        "x": 223,
+        "y": 527,
+        "category": "Thyroid gland"
+    },
+    {
+        "index": 127,
+        "name":"Bronchiectasis",
+        "x": 240,
+        "y": 497
+    },
+    {
+        "index": 128,
+        "name":"Triple Burner",
+        "x": 254,
+        "y": 469,
+        "category": "Immune system"
+    },
+    {
+        "index": 129,
+        "name":"Trachea",
+        "x": 261,
+        "y": 445,
+        "category": "Throat  larynx  trachea"
+    },
+    {
+        "index": 130,
+        "name":"Bronchi",
+        "x": 263,
+        "y": 461,
+        "category": "Respiratory system"
+    },
+    {
+        "index": 131,
+        "name":"Lateral Lung",
+        "x": 325,
+        "y": 459,
+        "category": "Respiratory system"
+    },
+    {
+        "index": 132,
+        "name":"Blood",
+        "x": 348,
+        "y": 459,
+        "category": "Cardiovascular system"
+    },
+    {
+        "index": 133,
+        "name":"Tonsil",
+        "x": 409,
+        "y": 530
+    },
+    {
+        "index": 134,
+        "name":"Helix",
+        "x": 398,
+        "y": 549
+    },
+    {
+        "index": 135,
+        "name":"Clavicle",
+        "x": 220,
+        "y": 643
+    },
+    {
+        "index": 136,
+        "name":"Elbow",
+        "x": 428,
+        "y": 353
+    },
+    {
+        "index": 137,
+        "name":"Abdominal Wall",
+        "x": 420,
+        "y": 342
+    },
+    {
+        "index": 138,
+        "name":"Helix",
+        "x": 430,
+        "y": 493
+    },
+    {
+        "index": 139,
+        "name":"External Genitalia",
+        "x": 205,
+        "y": 206
+    },
+    {
+        "index": 140,
+        "name":"Liver",
+        "x": 368,
+        "y": 338,
+        "category": "Liver"
+    },
+    {
+        "index": 141,
+        "name":"Pancreas/Gall Bladder",
+        "x": 342,
+        "y": 309,
+        "category": "Gallbladder"
+    },
+    {
+        "index": 142,
+        "name":"Lumbago",
+        "x": 379,
+        "y": 322
+    },
+    {
+        "index": 143,
+        "name":"Ascites",
+        "x": 300,
+        "y": 332
+    },
+    {
+        "index": 144,
+        "name":"Endocrine",
+        "x": 209,
+        "y": 517,
+        "category": ["Hypothalamus", "Epiphysis", "Endocrine system"]
+    },
+    {
+        "index": 144,
+        "name":"Shoulder Pain",
+        "x": 408,
+        "y": 456
+    },
+    {
+        "index": 145,
+        "name":"Chest Wall",
+        "x": 409,
+        "y": 469
+    },
+    {
+        "index": 146,
+        "name":"Shoulder Joint",
+        "x": 403,
+        "y": 485
+    },
+    {
+        "index":147,
+        "name":"Clavicle",
+        "x": 388,
+        "y": 508
+    },
+    {
+        "index": 148,
+        "name":"Nephritis",
+        "x": 363,
+        "y": 556
+    },
+    {
+        "index": 149,
+        "name":"Appendix #3",
+        "x": 350,
+        "y": 546
+    },
+    {
+        "index": 150,
+        "name":"Inner Nose",
+        "x": 208,
+        "y": 484,
+        "category": "Ears  nose  maxillary sinus"
+    },
+    {
+        "index": 151,
+        "name":"Lower Lung",
+        "x": 299,
+        "y": 477,
+        "category": "Respiratory system"
+    },
+    {
+        "index": 152,
+        "name":"Thyroid #4",
+        "x": 222,
+        "y": 422,
+        "category": "Thyroid gland"        
+    },
+    {
+        "index": 153,
+        "name":"Lung",
+        "x": 309,
+        "y": 552,
+        "category": "Respiratory system"
+    },
+    {
+        "index": 154,
+        "name":"Throat",
+        "x": 218,
+        "y": 429,
+        "category": "Throat  larynx  trachea"
+    },
+    {
+        "index": 155,
+        "name":"Nerve",
+        "x": 303,
+        "y": 526,
+        "category": "Nervous system"
+    }
+    
+]
